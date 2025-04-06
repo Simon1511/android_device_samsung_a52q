@@ -26,7 +26,7 @@ BOARD_NAME                  := SRPTH31C002
 SOONG_CONFIG_NAMESPACES += samsungCameraVars
 SOONG_CONFIG_samsungCameraVars += extra_ids
 # ID=54 is macro
-SOONG_CONFIG_samsungCameraVars_extra_ids := 54
+SOONG_CONFIG_samsungCameraVars_extra_ids := 52,54
 
 # Display
 TARGET_SCREEN_DENSITY := 420
