@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4219b1d0_3aff6d16",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-04-06T12:05:30Z",
+      "side": 1,
+      "message": "TODO: People reporting DoF not working in Aperture and GCam, check if exposing the ToF lens helps",
+      "revId": "b6b4b7e3077861d77645ba700f7507be7e7fff71",
+      "serverId": "f2ad53df-6715-461d-bac1-42871177773f"
+    }
+  ]
+}
